@@ -1,0 +1,4 @@
+# These pages carry photographs of conference slides and posters.
+# Not for indexing, archiving or image search.
+User-agent: *
+Disallow: /
